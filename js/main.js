@@ -179,7 +179,7 @@
         animationInSpeed: 200, // Animation in speed (ms)
         animationOutSpeed: 200, // Animation out speed (ms)
         easingType: 'linear',
-        scrollText: '<img src="../arrow-up.svg"/>', // Text for element
+        scrollText: '<img src="arrow-up.svg"/>', // Text for element
         activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
         easingType: 'linear',
         scrollSpeed: 900,
