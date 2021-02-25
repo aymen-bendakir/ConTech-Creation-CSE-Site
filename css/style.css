@@ -1,6 +1,11 @@
 /*@import url("https://fonts.googleapis.com/css?family=Anton|Monoton|Muli:400,400i,500,500i,600&display=swap");
 /*@import url("https://fonts.googleapis.com/css?family=Anton|Monoton|Muli:400,400i,500,500i,600&display=swap");
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_extend.scss */
+@font-face {
+  font-family: Glitch Slap;
+  src: url(GlitchSlap.otf);
+}
+
 .flex-center-start {
   display: -webkit-box;
   display: -ms-flexbox;
