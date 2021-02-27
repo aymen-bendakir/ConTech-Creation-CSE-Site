@@ -6,6 +6,10 @@
   src: url(GlitchSlap.otf);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .flex-center-start {
   display: -webkit-box;
   display: -ms-flexbox;
